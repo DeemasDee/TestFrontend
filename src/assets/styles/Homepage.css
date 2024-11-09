@@ -1,0 +1,29 @@
+/* assets/styles/Homepage.css */
+
+.homepage-container {
+    padding: 20px;
+  }
+  
+  .homepage-container h1 {
+    font-size: 32px;
+    color: var(--primary-color);
+    margin-bottom: 20px;
+  }
+  
+  .section {
+    margin-bottom: 30px;
+  }
+  
+  .section h2 {
+    font-size: 24px;
+    color: var(--secondary-color);
+  }
+  
+  .section .card {
+    background-color: #F0F8FF;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+  }
+  
